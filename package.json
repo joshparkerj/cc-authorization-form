@@ -1,0 +1,28 @@
+{
+  "name": "authorization-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshparkerj/cc-authorization-form.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshparkerj/cc-authorization-form/issues"
+  },
+  "homepage": "https://github.com/joshparkerj/cc-authorization-form#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2",
+    "npm": "^6.2.0"
+  }
+}
